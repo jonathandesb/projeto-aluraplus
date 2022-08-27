@@ -1,0 +1,28 @@
+.container__aluralingua {
+    margin-top: 1em;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.container_descricao--aluralingua {
+    width: 588px;
+    margin-right: 69px;
+    line-height: 1em;
+    height: 144px;
+    
+}
+
+.botao__combo {
+    text-decoration: none;
+    padding: 1em;
+    background-color: var(--botao-azul);
+    color: var(--branco);
+    border-radius: 8px;
+  
+}
+
+.descricao {
+    margin-bottom: 2em;
+    color: var(--branco-descricao);
+}

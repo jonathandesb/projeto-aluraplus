@@ -1,0 +1,32 @@
+.container__multitelas {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+  
+
+}
+
+.secundario__imagem {
+    width: 30%;
+
+}
+
+
+.descricao__titulo {
+    font-weight: 700;
+    font-size: 48px;
+    margin-bottom: 0.5em;
+}
+
+
+.container__descricao--multitelas {
+    width: 588px;
+    margin-left: 69px;
+    line-height: 1em;
+    
+}
+
+.descricao {
+    
+}
+
