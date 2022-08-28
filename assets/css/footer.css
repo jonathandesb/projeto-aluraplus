@@ -18,12 +18,21 @@ margin: 3em 1em 0 1em;
     color: var(--cinza-secundario);
 }
 
+.lista__links-item  a:hover {
+    color: var(--azul-efeito);
+}
+
+.lista__links-item  a:active {
+    color: red;
+}
+
 .footer_descricao {
-    margin: 1em 1em 5em 1em;
+    margin: 1em 1em 7em 1em;
     line-height: 2em;
     color: var(--cinza-secundario);
     text-align: center;
     font-size: 14px;
     font-weight: 400;
 }
+
 
