@@ -4,6 +4,7 @@
 @import url("aluralingua.css");
 @import url("cursos.css");
 @import url("dispositivos.css");
+@import url("footer.css");
 
 :root {
     --branco-principal: #FFFFFF;
@@ -20,5 +21,5 @@ body {
     font-family: var(--fonte-padrao);
     font-size: 16px;
     font-weight: 400;
-    height: 100vh;
+
 }
