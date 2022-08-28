@@ -1,0 +1,14 @@
+.container__seuscursos {
+    margin-top: 15em;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+
+.container_descricao--seuscursos {
+    width: 588px;
+    margin-left: 69px;
+    line-height: 1em;
+    
+}

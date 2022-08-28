@@ -1,6 +1,7 @@
 .container__aluralingua {
-    margin-top: 1em;
+    margin-top: 15em;
     display: flex;
+    flex-direction: row-reverse;
     align-items: center;
     justify-content: center;
 }
