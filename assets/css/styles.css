@@ -3,6 +3,7 @@
 @import url("multitelas.css");
 @import url("aluralingua.css");
 @import url("cursos.css");
+@import url("dispositivos.css");
 
 :root {
     --branco-principal: #FFFFFF;

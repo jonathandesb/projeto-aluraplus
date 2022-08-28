@@ -1,0 +1,23 @@
+.container__dipositivos {
+    margin-top: 15em;
+}
+
+
+.descricao__titulo--dispositivos {
+    font-weight: 700;
+    font-size: 48px;
+    text-align: center;
+}
+
+.dispositivos__lista {
+    margin-top: 3em;
+    list-style-type: none;
+    text-align: center;
+    display: flex;
+    justify-content: center;
+}
+
+.lista__item {
+font-size: 32px;
+font-weight: 700;
+}
