@@ -7,6 +7,7 @@ Projeto desenvolvido no curso Alura
 
 
 [🔗 Clique aqui para acessar](https://jonathandesb.github.io/projeto-aluraplus/)
+
 🛠️ Tecnologias
 - HTML
 - CSS
